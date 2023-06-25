@@ -1,2 +1,2 @@
-# LGM_Web-application-using-create---react---app
+# LGM_Web-application-using-create-react-app
 Task 2
